@@ -19,4 +19,4 @@ This repository serves as a location to show files and assignments associated wi
 6.  **Module 6: Clustering** 
      * [Segmentation / A6](https://colab.research.google.com/drive/1IVTt8AeSI4xtDnHLjeWbJic9HfyI0n0y?usp=sharing)
 7.  **Module 7: GitHub**
-     * Github / A7
+     * [Github / A7](https://github.com/jaxonswalberg/Data-Analytics-6100)
