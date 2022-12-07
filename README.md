@@ -1,6 +1,6 @@
 # Data-Analytics-6100
 
-This repository serves as a location to show files and assignments associated with Analytics 6100. Below you will find a clickable link to my resume as well as a table of contents of my assignemtns. 
+This repository serves as a location to show files and assignments associated with Analytics 6100. Below you will find a clickable link to my resume as well as a table of contents of my assignemtns along with clickable links to that work. From these assignments you'll see the progression from very basic python syntax to more complicated assignments using principle component analysis to analyze data.  
 
 ## My Résumé
 * [Résumé](https://colab.research.google.com/drive/1YvsP4628F0XuGH-5S8vLNsdeI8K6MrZf?usp=sharing)
@@ -20,3 +20,7 @@ This repository serves as a location to show files and assignments associated wi
      * [Segmentation / A6](https://colab.research.google.com/drive/1IVTt8AeSI4xtDnHLjeWbJic9HfyI0n0y?usp=sharing)
 7.  **Module 7: GitHub**
      * [Github / A7](https://github.com/jaxonswalberg/Data-Analytics-6100)
+
+
+## Summary of Work
+This class has been an introduction to python. Througout the course we've learned some aspects of numpy, pandas, and statistics. This serves as a roadmap for my work so far and shows progression in skill and techniques used. 
